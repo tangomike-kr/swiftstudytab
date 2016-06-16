@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E5404AA01D12308F0063EF02 /* 20160615_tabBasedApplication_Singleton.txt in Resources */ = {isa = PBXBuildFile; fileRef = E5404A9F1D12308F0063EF02 /* 20160615_tabBasedApplication_Singleton.txt */; };
 		E5D9D7D41D1157740061A5FA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5D9D7D31D1157740061A5FA /* AppDelegate.swift */; };
 		E5D9D7D61D1157740061A5FA /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5D9D7D51D1157740061A5FA /* FirstViewController.swift */; };
 		E5D9D7D81D1157740061A5FA /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5D9D7D71D1157740061A5FA /* SecondViewController.swift */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E5404A9F1D12308F0063EF02 /* 20160615_tabBasedApplication_Singleton.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 20160615_tabBasedApplication_Singleton.txt; sourceTree = "<group>"; };
 		E5D9D7D01D1157740061A5FA /* SwiftStudyTab.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftStudyTab.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5D9D7D31D1157740061A5FA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E5D9D7D51D1157740061A5FA /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 		E5D9D7C71D1157740061A5FA = {
 			isa = PBXGroup;
 			children = (
+				E5404A9F1D12308F0063EF02 /* 20160615_tabBasedApplication_Singleton.txt */,
 				E5D9D7D21D1157740061A5FA /* SwiftStudyTab */,
 				E5D9D7E91D1157740061A5FA /* SwiftStudyTabTests */,
 				E5D9D7F41D1157740061A5FA /* SwiftStudyTabUITests */,
@@ -242,6 +245,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E5404AA01D12308F0063EF02 /* 20160615_tabBasedApplication_Singleton.txt in Resources */,
 				E5D9D7E01D1157740061A5FA /* LaunchScreen.storyboard in Resources */,
 				E5D9D7DD1D1157740061A5FA /* Assets.xcassets in Resources */,
 				E5D9D7DB1D1157740061A5FA /* Main.storyboard in Resources */,
@@ -505,6 +509,7 @@
 				E5D9D7FC1D1157740061A5FA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E5D9D7FD1D1157740061A5FA /* Build configuration list for PBXNativeTarget "SwiftStudyTabTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +518,7 @@
 				E5D9D7FF1D1157740061A5FA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E5D9D8001D1157740061A5FA /* Build configuration list for PBXNativeTarget "SwiftStudyTabUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +527,7 @@
 				E5D9D8021D1157740061A5FA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
