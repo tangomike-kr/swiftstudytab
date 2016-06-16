@@ -1,0 +1,10 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "07b1d665940130354406cab9509b6b01"
+build_time: [519352849, 693573000]
+inputs:
+  "/Users/shimaz_mbpr/Desktop/SwiftStudy/SwiftStudyTab/SwiftStudyTab/SecondViewController.swift": [519304557, 0]
+  "/Users/shimaz_mbpr/Desktop/SwiftStudy/SwiftStudyTab/SwiftStudyTab/AppDelegate.swift": [519303998, 0]
+  "/Users/shimaz_mbpr/Desktop/SwiftStudy/SwiftStudyTab/SwiftStudyTab/Global.swift": [519303820, 0]
+  "/Users/shimaz_mbpr/Desktop/SwiftStudy/SwiftStudyTab/SwiftStudyTab/ThirdViewController.swift": [519303413, 0]
+  "/Users/shimaz_mbpr/Desktop/SwiftStudy/SwiftStudyTab/SwiftStudyTab/FirstViewController.swift": [519304433, 0]
+  "/Users/shimaz_mbpr/Desktop/SwiftStudy/SwiftStudyTab/SwiftStudyTab/FourthViewController.swift": [519303408, 0]
